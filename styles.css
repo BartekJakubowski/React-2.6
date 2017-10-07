@@ -1,0 +1,25 @@
+body {
+	background: #E1E1E1;
+	margin: 0 auto;
+	width: 800px;
+	font-family: "Ubuntu", "Roboto", Arial;
+}
+
+li {
+	list-style: none;
+	float: left;
+}
+
+.row {
+	margin: auto;
+	height: 100px;
+	width: 650px;
+}
+button{
+	width: 300px;
+	background: #018BAE;
+    height: 80px;
+    border: 4px #00576F;
+    margin: 3px;
+	color: white;	
+}	
